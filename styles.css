@@ -1,0 +1,33 @@
+@charset "utf-8";
+body{background-color:#00003f;}
+
+.pagebox{
+	background-color: #ffffff;
+	width: 70%;
+	margin: auto;
+}
+
+h1{
+	font-family: arial, sans-serif;
+	font-weight: 800;
+	color: #8b0000;
+	font-size: 72px;
+}
+
+nav{
+	background-color:#00003f;
+	color: #ffffff;
+	padding: 5px;
+}
+
+img{
+	width: 100%;
+}
+
+h2{
+	font-family: aria, sans-serif;
+	color: #8b0000;
+}
+
+footer{text-align: center;}
+
